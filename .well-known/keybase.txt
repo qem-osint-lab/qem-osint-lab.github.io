@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/qemlabcorp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://qem-osint-lab.xyz
+  * I am qemlabcorp (https://keybase.io/qemlabcorp) on keybase.
+  * I have a public key ASA-sdYLPK6AJe8pVdo7Tw5OhFY-nzQcwZTQUP-IWTg2iAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203eb1d60b3cae8025ef2955da3b4f0e4e84563e9f341cc194d050ff88593836880a",
+      "host": "keybase.io",
+      "kid": "01203eb1d60b3cae8025ef2955da3b4f0e4e84563e9f341cc194d050ff88593836880a",
+      "uid": "6f946e52c807ce9faf7482e522ac2e19",
+      "username": "qemlabcorp"
+    },
+    "merkle_root": {
+      "ctime": 1780237170,
+      "hash": "9868ce8f9f0da19d1e562350ad1043d66ed0a9d5c169c5bdbb4708361d607474a8221e12312175544c2cdff40693c67798661eb9fb1627f75cef7d639e0e6058",
+      "hash_meta": "059e874514423ef2f90a045a2375ec7b3e20407088ac3f203f623b7343a7ed9a",
+      "seqno": 27607416
+    },
+    "service": {
+      "entropy": "ci6TJ1uDSrwG9O38nbyvqQ2m",
+      "hostname": "qem-osint-lab.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.6.2"
+  },
+  "ctime": 1780237271,
+  "expire_in": 504576000,
+  "prev": "e943f4db5d90b83db601be12e74e230976045cbca9092eba22f4dccab977a28e",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPrHWCzyugCXvKVXaO08OToRWPp80HMGU0FD/iFk4NogKp3BheWxvYWTESpcCCMQg6UP0212QuD22Ab4S504jCXYEXLypCS66IvTcyrl3oo7EIHoDpXU93ZIAtycMpdF7bSM3VZryrBhG7A95UIByyeOmAgHCo3NpZ8RAul5uoLMOk2kgtfm1gkDq7Kxw0h2G4Kh8Cnebd9wj4ZzD9Bt+RceiGN3xNxzBkT9ncEfn3Jy5cQmcXWUAr7UqD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJy+oCZX2XfqsFDjIm+guwVh/LE8182FO6IOXDtTkPKLo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/qemlabcorp
+
+==================================================================
